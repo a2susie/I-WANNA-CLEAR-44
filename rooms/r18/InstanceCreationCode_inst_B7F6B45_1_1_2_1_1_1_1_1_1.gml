@@ -1,0 +1,1 @@
+txt= "Glitchy's Nightmare";

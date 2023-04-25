@@ -1,0 +1,1 @@
+txt= "Thinking with Vines";

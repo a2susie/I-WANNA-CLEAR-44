@@ -1,0 +1,1 @@
+txt= "John's Nemesis";
